@@ -11,3 +11,6 @@ a {
 	padding-right: 2%;
 }
 
+#n1 {
+	padding-bottom: 1%;
+}
