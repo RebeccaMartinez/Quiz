@@ -17,6 +17,6 @@ a {
 
 #lista {
 margin-top: 1%;
-margin-left: 5%;
+margin-left: 10%;
 text-align: left;
 }
