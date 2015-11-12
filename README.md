@@ -8,7 +8,7 @@ El tutorial utilizado para realizar la práctica ha sido el siguuiente: [Tutoria
 Para ejecutarlo en tu ordenador solo hay que seguir estos sencillos pasos:
 
 ```
-git clone
+git clone git@github.com:RebeccaMartinez/quiz.git
 ```
 
 ```
